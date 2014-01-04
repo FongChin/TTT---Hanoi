@@ -1,0 +1,16 @@
+#wrapper{
+	text-align: center;
+}
+
+.row{
+
+}
+
+.tile{
+	display: inline-block;
+	width: 200px;
+	height: 200px;
+	background-color: cyan;
+	border: 2px solid #000;
+	box-sizing: border-box;
+}
